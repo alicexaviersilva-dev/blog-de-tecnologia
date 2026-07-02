@@ -1,1 +1,1 @@
-#blog-de-tecnologia
+#blog-de-tecnologo
